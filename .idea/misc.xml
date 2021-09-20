@@ -8,6 +8,7 @@
         <entry key="app/src/main/res/drawable/ic_back.xml" value="0.2046875" />
         <entry key="app/src/main/res/drawable/ic_more.xml" value="0.2046875" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/item_layout.xml" value="0.22" />
       </map>
     </option>
   </component>

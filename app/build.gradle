@@ -8,7 +8,7 @@ android {
 
     defaultConfig {
         applicationId "com.binar.instagram"
-        minSdk 21
+        minSdk 16
         targetSdk 30
         versionCode 1
         versionName "1.0"
